@@ -39,10 +39,10 @@ exchange-rate data from an external API.
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/Screenshots/image_1.png" width="220">
-  <img src="assets/Screenshots/image_2.png" width="220">
-  <img src="assets/Screenshots/image_3.png" width="220">
-  <img src="assets/Screenshots/image_4.png" width="220">
+  <img src="assets/Screenshots/image_1.png" width="200">
+  <img src="assets/Screenshots/image_2.png" width="200">
+  <img src="assets/Screenshots/image_3.png" width="200">
+  <img src="assets/Screenshots/image_4.png" width="200">
 </p>
 
 ---
