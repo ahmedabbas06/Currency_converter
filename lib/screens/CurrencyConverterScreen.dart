@@ -17,7 +17,7 @@ class CurrencyConverterScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final controller = context.watch<CurrencyController>();
-
+ 
     return Scaffold(
       body: SafeArea(
         child: SingleChildScrollView(
