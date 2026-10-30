@@ -150,4 +150,5 @@ lib/
 **Ahmed Abbas** | Flutter Mobile Application Developer | Computer Science Student
 
 - **GitHub:** [https://github.com/ahmedabbas06](https://github.com/ahmedabbas06)
-- **LinkedIn:** [https://github.com/ahmedabbas06](https://www.linkedin.com/in/ahmed-abdullah-abbas)
+- **LinkedIn:
+  ** [https://www.linkedin.com/in/ahmed-abdullah-abbas](https://www.linkedin.com/in/ahmed-abdullah-abbas)
